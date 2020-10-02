@@ -9,6 +9,7 @@
 
 -   Takes n(ln(n)) time complexity to sort the Array
 -   Better for large sized arrays
+-   useful for sorting linked lists.
 
 ## Hybrid Merge Sort
 
